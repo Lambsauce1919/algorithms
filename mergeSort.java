@@ -2,7 +2,7 @@ package sorting;
 
 import java.util.Arrays;
 
-public class merge {
+public class mergeSort {
 
     public static void main(String[] args) {
         int[] sm = {87, 23, 9, 54, 12, 39, 1, 4, 10, 2}; // Example array
